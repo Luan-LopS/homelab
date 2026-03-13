@@ -10,7 +10,7 @@ Para acompanhar em qual fase de estudo estou, basta verificar o [CHANGELOG](CHAN
 Aprimorar e desenvolver conhecimento nas áreas abaixo:
 
 - [Linux](linux/README.md)
-- Rede
+- [Rede](network/README.md)
 - Segurança
 - Docker
 - Terraform
