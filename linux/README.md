@@ -8,7 +8,7 @@ Esta seção documenta minha evolução no estudo de Linux aplicado à infraestr
 
 Desenvolver domínio prático e conceitual em:
 
-- [Conceitos Básicos](linux/basic/README.md) ✅
+- [Conceitos Básicos](basic.md) ✅
 - Administração de sistemas
 - Redes no Linux
 - Segurança básica
